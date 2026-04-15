@@ -1,0 +1,28 @@
+Ethical AI Addendum (Non-Legal, Normative Clause)
+
+This project is released under the MIT License but is intended to be used in alignment
+with the following ethical principles:
+
+1. Responsible Use
+   The Software should not be used for systems that intentionally cause harm,
+   violate human rights, enable unlawful surveillance, or support malicious autonomous actions.
+
+2. Human Oversight
+   Any AI system built using this Software should maintain meaningful human oversight
+   and should not be deployed as fully autonomous decision-making systems in high-risk domains
+   (including but not limited to: military targeting, coercive surveillance, or unlawful profiling).
+
+3. Transparency
+   Derivative systems should strive to maintain transparency in decision logic,
+   especially when used in governance, moderation, or behavioral control systems.
+
+4. Non-Weaponization Intent
+   This Software is not designed, intended, or endorsed for use in weapons systems,
+   offensive cyber operations, or mass manipulation technologies.
+
+5. Attribution and Integrity
+   Derivatives should retain attribution to the original project where reasonably possible
+   and should not misrepresent the origin or intent of this Software.
+
+This addendum is not a legally binding restriction and does not override the MIT License.
+It expresses the intended ethical framework of the author.
